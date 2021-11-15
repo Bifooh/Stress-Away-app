@@ -1,0 +1,84 @@
+.contenedor-general {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.contenedor-general-2 {
+    background-color: #454545;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.contenedor-general-3 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.texto-general {
+    text-align: justify;
+    font-weight: 300;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+/* nuestro proyecto */
+.imagen-nuestro-proyecto {
+    margin-left: 30px;
+    margin-right: 60px;
+}
+
+.letras-nuestro-proyecto{
+    margin-left: 120px;
+    height: 150px;
+}
+
+.logo-nuestro-proyecto {
+    height: 150px;
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+
+.imagen-centrada{
+    margin-left: 30%;
+    margin-bottom: 10px;
+    width: 400px;
+    
+}
+
+.imagen-general{
+    width: 500px;
+    margin-left: 35px;
+}
+
+
+.titulo-tipo-2 {
+    color: #fff;
+    margin-top: 75px;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.titulo-tipo-3 {
+    color: #4DA8BD;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    margin-left: 40%;
+}
+
+.titulo-centrado-color{
+    color: #4DA8BD;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
